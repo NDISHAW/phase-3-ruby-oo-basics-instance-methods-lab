@@ -7,5 +7,3 @@ class Person
     end
 end
 
-Ibrah = Person.new
-p Ibrah.walk

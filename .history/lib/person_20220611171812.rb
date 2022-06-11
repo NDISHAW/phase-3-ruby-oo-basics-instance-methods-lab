@@ -8,4 +8,4 @@ class Person
 end
 
 Ibrah = Person.new
-p Ibrah.walk
+p Ibrah.

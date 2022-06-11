@@ -1,4 +1,5 @@
-class Person
+
+class person
     def talk
        puts "Hello World!" 
     end
@@ -6,6 +7,3 @@ class Person
         puts "The Person is walking"
     end
 end
-
-Ibrah = Person.new
-p Ibrah.walk
